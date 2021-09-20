@@ -1,2 +1,2 @@
 # Pagina_de_login_minicurso
-Tela de login baseada no facebook
+Página de login baseada no facebook
